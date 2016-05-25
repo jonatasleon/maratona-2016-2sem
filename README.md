@@ -1,4 +1,4 @@
-# Maratona Interfatec - Base64
+# Maratona Interfatecs - Base64
 
 Exercícios realizados na maratona Interfatecs
 
